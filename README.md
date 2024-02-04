@@ -5,9 +5,8 @@ This project focuses on investigating the determinants of single-family home sal
 
 ### II.	Data Description
 
-Data Definition	Data Source 	Data Size	Rows/Columns
-North Chicago Township Home Sale data	Cook County Assessor 2021 
-82 KB	(404, 28)
+<img width="814" alt="image" src="https://github.com/kevinkooo/North-Chicago-Township-Home-sale-Analysis/assets/156154849/d8076031-13e9-4ae2-9efc-5c7f256b029d">
+
 This data consists of 403 single-family homes sold in the North Chicago township of Cook County between 2018 and 2020.  
 
 ### III.	Exploratively Data Analysis
